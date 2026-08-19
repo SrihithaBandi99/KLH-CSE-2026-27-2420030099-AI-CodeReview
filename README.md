@@ -1,4 +1,4 @@
-# AI Copilot for Context-Aware Automated Code Review
+# AI Copilot Code Review using Large Language Models
 
 ## Team Members
 
